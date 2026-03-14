@@ -1,6 +1,6 @@
 # Shape Your Body, Change Your Life.
 
-![image]([https://docs.mgmaemp.com/public/images/shrimp-balls-protest.webp](https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-04.png))
+![image](https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-04.png)
 
 WE ARE OPEN
 
