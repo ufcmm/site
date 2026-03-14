@@ -1,7 +1,5 @@
 # Shape Your Body, Change Your Life.
 
-![image](https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-04.png)
-
 WE ARE OPEN
 
 **Monday** to **Saturday** (**_Sunday_** is OFF)
