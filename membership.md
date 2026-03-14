@@ -2,18 +2,22 @@
 
 WE ARE OPEN
 
-Days:
+**Monday** to **Saturday** (**_Sunday_** is OFF)
 
-From	To
-Monday	Saturday
-Time:
 
 Session	From	To
-Morning	06:00AM	12:00PM
-Break	12:00PM	03:00PM
-Afternoon	03:00PM	08:00PM
-Early Bird (Only 50 Pax)
-45,000 MMK per Month
+**Morning Session**  
+06:00AM to 12:00PM
+
+**_Break_**	 
+12:00PM	to 03:00PM
+
+**Afternoon Session**	 
+03:00PM	08:00PM
+
+### Early Bird (Only 50 Pax)
+
+45,000 MMK per Month  
 Normal Price - 50,000 MMK per month
 
 **Silver Member Card**
