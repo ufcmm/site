@@ -1,30 +1,35 @@
 [
   {
     "filename": "membership",
+    "title": "Our Gym Membership Scheme",
     "description": "Membership of Union Fitness Center gym in Yangon.",
     "date": "2026-03-15",
     "coverImage": "https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-04.png"
   },
   {
     "filename": "nutyaykan",
+    "title": "Gym က နတ်ရေကန်မဟုတ်သလို Gym ဆရာတွေကလည်း မှော်ဆရာတွေ မဟုတ်ပါ",
     "description": "Membership of Union Fitness Center gym in Yangon.",
     "date": "2026-03-12",
     "coverImage": "https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-29.png"
   },
   {
     "filename": "rules-for-gym",
+    "title": "Gym ကစားသူတွေ လိုက်နာသင့်တဲ့ အချက်လေးတွေ",
     "description": "Membership of Union Fitness Center gym in Yangon.",
     "date": "2026-03-10",
     "coverImage": "https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-18.png"
   },
   {
     "filename": "membershipfour",
+    "title": "Blog post title",
     "description": "Membership of Union Fitness Center gym in Yangon.",
     "date": "2026-03-15",
     "coverImage": "https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-24.png"
   },
   {
     "filename": "membershipfive",
+    "title": "Blog post title",
     "description": "Membership of Union Fitness Center gym in Yangon.",
     "date": "2026-03-15",
     "coverImage": "https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-33.png"
