@@ -15,8 +15,6 @@ Session	From	To
 **Afternoon Session**	 
 03:00PM	08:00PM
 
-![image](https://raw.githubusercontent.com/ufcmm/images/main/gympngs/special-lineal-color-icons/slinealcolor-05.png)
-
 ### Early Bird (Only 50 Pax)
 
 45,000 MMK per Month  
