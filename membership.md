@@ -15,7 +15,7 @@ Session	From	To
 **Afternoon Session**	 
 03:00PM	08:00PM
 
-![images](https://raw.githubusercontent.com/ufcmm/images/main/gympngs/special-lineal-color-icons/slinealcolor-06.png)
+![image](https://github.com/ufcmm/images/blob/main/gympngs/special-lineal-color-icons/slinealcolor-05.png)
 
 ### Early Bird (Only 50 Pax)
 
