@@ -7,10 +7,10 @@ WE ARE OPEN
 **Morning Session**  
 06:00AM to 12:00PM
 
-**_Break_**	 
+**_Break_**  
 12:00PM	to 03:00PM
 
-**Afternoon Session**	 
+**Afternoon Session**  
 03:00PM	08:00PM
 
 ### Early Bird (Only 50 Pax)
