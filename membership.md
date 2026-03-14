@@ -13,6 +13,8 @@ WE ARE OPEN
 **Afternoon Session**  
 03:00PM	08:00PM
 
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCWShtJVFHfq-lguJUaFjY7BNbhsKlTkiOBw&s)
+
 ### Early Bird (Only 50 Pax)
 
 45,000 MMK per Month  
