@@ -15,7 +15,7 @@ Session	From	To
 **Afternoon Session**	 
 03:00PM	08:00PM
 
-![image](https://media.istockphoto.com/id/1681388313/vector/cute-baby-panda-cartoon-on-white-background.jpg?s=612x612&w=0&k=20&c=qFrzn8TqONiSfwevvkYhys1z80NAmDfw3o-HRdwX0d8=)
+![image](https://m.media-amazon.com/images/I/716C3Gtm-qL._AC_UF894,1000_QL80_.jpg)
 
 ### Early Bird (Only 50 Pax)
 
