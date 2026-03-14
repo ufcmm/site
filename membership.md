@@ -1,5 +1,7 @@
 # Shape Your Body, Change Your Life.
 
+![image](https://img.freepik.com/free-photo/cartoon-animated-penguin-with-headphones_23-2150881938.jpg?semt=ais_hybrid&w=740&q=80)
+
 WE ARE OPEN
 
 **Monday** to **Saturday** (**_Sunday_** is OFF)
