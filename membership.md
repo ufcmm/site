@@ -29,6 +29,8 @@ Normal Price - 300,000 MMK (Locker Key)
   Thsi is testing
 </div>
 
+![cartoon](https://img.freepik.com/free-photo/cartoon-animated-penguin-with-headphones_23-2150881938.jpg?semt=ais_hybrid&w=740&q=80)
+
 Platinum Member Card
 1 Year - 540,000 MMK (Save 60,000+ MMK)
 Normal Price - 600,000 MMK (Locker Key + Towel)
