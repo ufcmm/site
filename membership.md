@@ -1,6 +1,6 @@
 # Shape Your Body, Change Your Life.
 
-![image](https://docs.mgmaemp.com/public/images/due-diligence.webp)
+![image](https://docs.mgmaemp.com/public/images/shrimp-balls-protest.webp)
 
 WE ARE OPEN
 
