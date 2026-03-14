@@ -25,6 +25,10 @@ Gold Member Card
 6 Months - 280,000 MMK (Save 20,000+ MMK)
 Normal Price - 300,000 MMK (Locker Key)
 
+<div style="font-family:'Dancing Script';">
+  Thsi is testing
+</div>
+
 Platinum Member Card
 1 Year - 540,000 MMK (Save 60,000+ MMK)
 Normal Price - 600,000 MMK (Locker Key + Towel)
