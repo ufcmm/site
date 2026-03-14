@@ -19,6 +19,7 @@ Normal Price - 50,000 MMK per month
 Silver Member Card
 3 Months - 140,000 MMK (Save 10,000 MMK)
 Normal Price - 150,000 MMK
+<!--rehype:style=margin-top:9rem;-->
 
 Gold Member Card
 6 Months - 280,000 MMK (Save 20,000+ MMK)
