@@ -1,7 +1,5 @@
 # Shape Your Body, Change Your Life.
 
-![image](https://img.freepik.com/free-photo/cartoon-animated-penguin-with-headphones_23-2150881938.jpg?semt=ais_hybrid&w=740&q=80)
-
 WE ARE OPEN
 
 **Monday** to **Saturday** (**_Sunday_** is OFF)
@@ -24,19 +22,18 @@ Normal Price - 50,000 MMK per month
 
 **Silver Member Card**
 
-3 Months - 140,000 MMK (Save 10,000 MMK)
+3 Months - 140,000 MMK (Save 10,000 MMK)  
 Normal Price - 150,000 MMK
-<!--rehype:style=margin-top:9rem;-->
 
 **Gold Member Card**
 
-6 Months - 280,000 MMK (Save 20,000+ MMK)
+6 Months - 280,000 MMK (Save 20,000+ MMK)  
 Normal Price - 300,000 MMK (Locker Key)
 
 
 **Platinum Member Card**
 
-1 Year - 540,000 MMK (Save 60,000+ MMK)
+1 Year - 540,000 MMK (Save 60,000+ MMK)  
 Normal Price - 600,000 MMK (Locker Key + Towel)
 
 Call us:
