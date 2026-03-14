@@ -13,7 +13,7 @@ WE ARE OPEN
 **Afternoon Session**  
 03:00PM	08:00PM
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCWShtJVFHfq-lguJUaFjY7BNbhsKlTkiOBw&s)
+![image](https://media.istockphoto.com/id/1681388313/vector/cute-baby-panda-cartoon-on-white-background.jpg?s=612x612&w=0&k=20&c=qFrzn8TqONiSfwevvkYhys1z80NAmDfw3o-HRdwX0d8=)
 
 ### Early Bird (Only 50 Pax)
 
