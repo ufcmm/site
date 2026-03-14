@@ -15,7 +15,7 @@ Session	From	To
 **Afternoon Session**	 
 03:00PM	08:00PM
 
-![image](https://raw.githubusercontent.com/ufcmm/images/main/gympngs/basic-straight-flat-icons/bsflat-04.png)
+![image](https://media.istockphoto.com/id/1681388313/vector/cute-baby-panda-cartoon-on-white-background.jpg?s=612x612&w=0&k=20&c=qFrzn8TqONiSfwevvkYhys1z80NAmDfw3o-HRdwX0d8=)
 
 ### Early Bird (Only 50 Pax)
 
