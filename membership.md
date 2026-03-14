@@ -4,8 +4,6 @@ WE ARE OPEN
 
 **Monday** to **Saturday** (**_Sunday_** is OFF)
 
-
-Session	From	To
 **Morning Session**  
 06:00AM to 12:00PM
 
@@ -14,8 +12,6 @@ Session	From	To
 
 **Afternoon Session**	 
 03:00PM	08:00PM
-
-![image](https://m.media-amazon.com/images/I/716C3Gtm-qL._AC_UF894,1000_QL80_.jpg)
 
 ### Early Bird (Only 50 Pax)
 
@@ -39,5 +35,5 @@ Normal Price - 300,000 MMK (Locker Key)
 Normal Price - 600,000 MMK (Locker Key + Towel)
 
 Call us:
-09-421135084
+09-421135084  
 09-79109362
