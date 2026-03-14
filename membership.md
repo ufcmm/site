@@ -1,5 +1,7 @@
 # Shape Your Body, Change Your Life.
 
+![image](https://media.istockphoto.com/id/1681388313/vector/cute-baby-panda-cartoon-on-white-background.jpg?s=612x612&w=0&k=20&c=qFrzn8TqONiSfwevvkYhys1z80NAmDfw3o-HRdwX0d8=)
+
 WE ARE OPEN
 
 **Monday** to **Saturday** (**_Sunday_** is OFF)
