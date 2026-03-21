@@ -1,3 +1,4 @@
 # Strength Program
 
 ကြွတ်သား ဖွင့်ဖြိုးကြီးထွားလိုသူများအတွက် Program လေး ဖြစ်ပါတယ်။
+<!--rehype:style=color:red;-->
