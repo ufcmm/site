@@ -11,6 +11,12 @@ This is testing paragraph colored in red.
 WE ARE OPEN
 <!--rehype:style=color:red;-->
 
+this is testing paragraph with class name.{.mdi-test}
+
+This is testing paragraph colored in red.{style="color:red;"}
+
+WE ARE OPEN{style="color:red;"}
+
 **Monday** to **Saturday** (**_Sunday_** is OFF)
 
 **Morning Session**  
