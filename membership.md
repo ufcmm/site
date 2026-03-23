@@ -2,6 +2,9 @@
 
 ![phogo test logo](https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-04.png)
 
+this is testing paragraph with class name.
+<!--rehype:class=rehype-test-->
+
 This is testing paragraph colored in red.
 <!--rehype:style=color:red;-->
 
