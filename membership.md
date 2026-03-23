@@ -3,6 +3,7 @@
 ![phogo test logo](https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-04.png)
 
 WE ARE OPEN
+<!--rehype:style=color:red;-->
 
 **Monday** to **Saturday** (**_Sunday_** is OFF)
 
