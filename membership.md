@@ -2,14 +2,11 @@
 
 ![phogo test logo](https://raw.githubusercontent.com/ufcmm/images/main/gympngs/kawaii-flat-icons/kflat-04.png)
 
-this is testing paragraph with class name.
-<!--rehype:class=myparagraph-->
+this is testing paragraph with class name. this is testing.
 
 This is testing paragraph colored in red.
-<!--rehype:style=color:red;-->
 
 WE ARE OPEN
-<!--rehype:style=color:red;-->
 
 this is testing paragraph with class name.{.mdi-test}
 
@@ -30,13 +27,13 @@ WE ARE OPEN{style="color:red;"}
 
 ### Early Bird (Only 50 Pax)
 
-45,000 MMK per Month  
-Normal Price - 50,000 MMK per month
+60,000 MMK per Month  
+Normal Price - 60,000 MMK per month
 
 **Silver Member Card**
 
 3 Months - 140,000 MMK (Save 10,000 MMK)  
-Normal Price - 150,000 MMK
+Normal Price - 180,000 MMK
 
 **Gold Member Card**
 
